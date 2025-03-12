@@ -1,0 +1,1109 @@
+[language]
+
+;Language name 
+
+name=Slovak
+
+[firstrun]
+selectlanguage=Nastavte jazyk aplikácie.
+ok=OK
+ignore=Ignorovať
+oldini=Obnoviť konfiguráciu z predchádzajúcej inštalácie?
+loadini=Import
+loadfail=Konfiguračný súbor nebol nájdený.
+loadsuccessful=Imported bol úspešný!
+steambak=Chcete importovať konfiguračné súbory uložené v cloude služby Steam?
+steamerror=Došlo ku kritickej chybe kvôli poškodeným súborom. Overte prosím integritu súborov prostredníctvom služby Steam.
+
+[steam]
+save=Uloženie konfigurácie do cloudu služby Steam
+load=Obnovenie konfigurácie služby zo Steam cloud
+steamnotrun=Potrebujete spustiť Steam pre použitie tejto funkcie!
+uploadfilemaxsize=Maximálna veľkosť nahraného súboru je 100 MB
+
+
+[workshop]
+list_install=Inštalované
+list_home=Domov
+list_subscribe=Predplatné
+list_upload=Nahrané
+list_voteup=Obľúbené
+list_themesskin=Skiny a motívy
+list_widget=Štýl zložky
+
+
+subscribe=Predplatné
+unsubscribe=Odhlásiť
+
+deltheme=Vymazať tému
+
+newtheme=Nová téma
+newthemetip=Prosím vložte meno témy
+
+edittheme=Upraviť
+
+
+icons=Ikony
+dockskin=Skiny
+Single icon=Jednotlivá ikona
+Time skin=Skin času
+Calendar skin=Skin kalendára
+Sound=Zvuk
+language=Jazyk
+
+sort_alltime=všetko
+sort_week=týždeň
+sort_month=mesiac
+sort_year=rok
+
+sort_hot=Populárne
+sort_new=Posledné
+sort_sub=Predplatné
+sort_vote=Hodnotenie
+
+filesize=Veľkosť súboru
+updatetime=Čas poslednej aktualizácie
+
+opensteam=Otvoriť Steam
+runerror=Aby ste mohli túto funkciu používať, musí byť spustená služba Steam!
+
+[themesedit]
+View=Pohľad
+Sort by=Triediť podľa
+Group by=Skupiny podľa
+refresh=Obnovenie
+showicons=Zobrazenie ikoniek na ploche
+
+sort_none=Žiadne
+sort_bigicon=Veľké ikony
+sort_mediumicon=Stredné ikony
+sort_smallicon=Malé ikony
+sort_superbigicon=Rozmerné ikony
+sort_list=Zoznam
+sort_details=Detaily
+sort_tile=Dlaždice
+sort_content=Obsah
+sort_name=Meno
+sort_size=Veľkosť
+sort_type=Typ
+sort_time=Dátum
+sort_ascending=Vzostupne
+sort_descending=Zostupne
+sort_AutoArrange=Ikony sú usporiadané automaticky
+sort_snaptogrid=Automatické usporiadanie ikon do mriežky
+
+
+
+shell=Vzhľad
+offset=Posunutie
+Delimiter and run=Oddeľovač a indikátor priebehu
+Progress bar=Indikátor priebehu
+
+savetheme=Uložiť
+
+applytheme=Úspešné uloženie tohto motívu sa aplikuje okamžite?
+filetip_drop=Potiahnite obrázok sem
+filetip=Kliknite alebo pretiahnite obrázok priamo sem
+dropfile=Chcete nahradiť tento obrázok?
+
+selectpicture=Vyberte obrázok
+cliptip=Pole
+clipleft=Vľavo
+clipbottom=Dno
+clipright=Vpravo
+cliptop=Horný okraj
+
+dockbg=Pozadie
+dockblur=Rozmazanie pozadia
+Progress bar border=Rám
+Progress bar bg=Pozadie
+Run indicator=Indikátor priebehu
+Run offset=Posunutie
+delimiter=Oddeľovač
+Margins=Okraje
+Margins trimmer=Nastavenie okrajov (odporúčané hodnoty 0-0,2)
+
+folder=Priečinok
+trash_empty=Kôš (prázdny)
+trash_full=Kôš (plný)
+
+calmon=Mesiac
+calday=Dátum
+
+timebg=Pozadie
+timehour=Hodina
+timeminute=Minúta
+timesecond=Sekunda
+
+timetype=Typ hodín
+timetype_pointer=Ukazovateľ
+timetype_number=Digitálne
+fontname=Názov písma
+fontsize=Veľkosť písma
+fontalign=Zarovnanie textu
+fontpoint=Súradnice textu
+format=Formát času
+fontcolor=Farba textu
+
+workshopshare=Nahráváte témy do Workshopu?
+sharesuccess=Úspešne nahrané do Workshopu!
+sharefailed=Nahrávanie sa nepodarilo!
+
+workshop_Preview=Náhľad
+workshop_description=Popis
+workshop_otherPreview=Ďalšie náhľady
+workshop_Previewbuild=Automaticky generované
+workshop_Previewselect=Výber obrázku
+workshop_tip_description=Zadajte prosím popis témy
+
+[systeminfo]
+cpu=Procesor
+gpu=Grafická karta
+memory=Pamäť
+system=Operačný systém
+moreinfo=Viac informácií
+
+[monitor]
+process=Procesy
+readwrite=Čítanie/zápis
+usage=Použité
+
+
+;------------------------------------
+[tips]
+openUACtip=Bolo zistené, že systém vypol UAC, čo môže mať za následok nemožnosť používať funkciu pretiahnutie súborov do Docku k otvoreniu. Chcete povoliť systémové UAC?
+openUACtip1=Správa používateľských účtov bola úspešne povolená a systém sa prejaví až po reštarte. Chcete systém okamžite reštartovať?
+openUACtip2=Povolenie UAC sa nepodarilo!
+
+crashtip=Chyba spôsobila, že aplikácia MyDockFinder prestala fungovať. Chcete ho reštartovať?
+;------------------------------------
+
+[iconame]
+
+;dock Label name
+
+explorer=Finder
+launchpad=Štartovací panel
+cal=Kalendár
+trash=Kôš
+
+;The last icon in the folder interface
+
+exploreropen=Otvoriť vo Finderi
+return=Vrátiť sa
+
+;System time icon label name format
+
+timeformat=yyyy/M/d dddd
+;The time format is the system time format   y 年 m月份 d 日期 dddd 星期几  ddd周几
+
+
+remove=Odstrániť
+
+;------------------------------------------------------------
+
+[systemicon]
+;System icon name
+controlpanel=Ovládací panel
+taskbar=Ikona na paneli
+systemtime=Systémový Čas
+network=Lokálna sieť
+weather=Počasie
+battery=Batéria
+startmenu=Ponuka Štart
+virtualdesktop=Virtuálne desktopy
+
+
+------------------------------------
+
+[editicon]
+;Edit icon window
+
+addtips=Súbory môžete pretiahnuť sem
+
+reset=Reset
+ok=OK
+restore=Obnovenie
+addname=Upraviť názov
+addicotips=Kliknutím na pravé tlačidlo pridáte ikonu.
+switch=Prepnúť
+trashempty=Prázdný kôš
+trashfull=Plný kôš
+iconshell=Škálovanie ikon podľa štandardov systému macOS
+addline=Spustiť príkaz
+
+Icon Designer title=Úprava Ikon
+Icon Designer=Upraviť
+select=Vyberte súbor
+
+share=Zdieľať
+icolabel=Ikona
+selectpicture=Výber
+icosize=Rozsah ikon
+icooffsetx=Horizontálne posúvanie ikony
+icooffsety=Vertikálne posúvanie ikony
+icobackground=Pozadie
+iconshadow=Používanie tieňov ikony
+icoroundrect=Uhol zaoblenia rohov
+icocolor=Farba
+icogradient color=Používanie farebných prechodov
+icocolorangle=Uhol farebného sklonu
+
+;Pop up select file window title
+
+selectfoldertitle=Vyberte priečinok
+;Weather forecast search city
+searchcity=Vyhľadať názov mesta
+
+
+;------------------------------------
+
+[editcal]
+
+;Edit calendar window
+
+monfontsize=Mesiac Veľkosť písma:
+dayfontsize=Dátum Veľkosť písma:
+
+monthfont=Mesiac písmo:
+dayfont=Dátum písmo:
+monthpoint=Mesiac umiestnenie:
+daypoint=Dátum umiestnenie:
+monthposition=Mesiac zarovnanie:
+dayposition=Dátum zarovnanie:
+monthcolor=Mesiac farba:
+daycolor=Dátum farba:
+rotation=Uhol rotácie:
+default=Použiť predvolené nastavenia
+
+ok=OK
+test=Test
+
+left=Vľavo
+right=Vpravo
+center=Stred
+
+;Pop up select picture window title
+
+selectcalicon=Výber obrázku kalendára
+
+;------------------------------------
+
+[editicontips]
+;An error message pops up on the edit icon interface
+
+iconduplicate=Tento program je už v Docku.
+
+titleerror=Zobrazený názov programu nesmie byť prázdny.
+filepatherror=Cesta k programu a ikona nemôžu byť prázdne.
+
+padtitleerror1=Názov súboru už existuje, zadajte iný názov.
+padtitleerror2=Úprava súboru sa nepodarila, neumiestňujte program na jednotku 'C'!
+
+workshopshare=Nahrať túto ikonu do workshopu?
+workshopsharesuccess=Ikona bola úspešne nahraná do workshopu!
+workshopsharefailed=Nahrávanie ikony sa nepodarilo.
+
+formaterror=Nepodporovaný formát. Podporované sú len súbory vo formátoch .png, .ico, .exe a .lnk.
+
+;---------------------------------------------------------------------------
+;Preferences window
+[settingUI]
+cloudini=Ukladanie do služby Steam Cloud
+uploadcloudini=Nahranie archívu
+nofoundini=Archív nebol odoslaný
+downloadcloudini=Stiahnuť archív
+managesteamcloud=Správa súborov
+cloudfile=Súbory v službe Steam cloud
+uploadcloudfile=Nahranie súboru
+filename=Názov súboru
+filesize=Veľkosť súboru
+filetime=Čas nahrávania
+
+settitle=Nastavenia MyDockFinder
+
+backupsuccess=Údaje boli úspešne zálohované.
+backupfail=Zálohu sa nepodarilo nahrať.
+
+
+Global Settings=Všeobecné
+
+openMyDock=Povolenie myDock
+openMyFinder=Povoliť myFinder
+
+gameautoclose=Automatické ukončenie pri hraní na celej obrazovke
+ProcessRecentFiles=Zobrazuje počet súborov naposledy otvorených programom
+
+
+DPIscale=Globálna mierka rozhrania
+Globalblurvalue=Globálna intenzita rozmazania rozhrania
+Accentcolor=Zvýraznenie farby
+darkmodeall=Vzhľad
+
+darkmode_light=Svetlý
+darkmode_dark=Tmavý
+darkmode_auto=Automatický
+darkmode_system=Nasleduje OS
+uiaccesstop=Zobrazenie MyDockFinder nad všetkými ostatnými oknami
+
+aero=Zapnutie globálneho efektu rozmazania
+systemdarkmode=Zosúladenie farebnej schémy systému s programom MyDockFinder
+autoupdate=Automatická kontrola aktualizácií
+systemstart=Spustenie pri štarte systému
+none=Nespúšťať pri spustení
+regedit=Hodnota registra
+plantask=Naplánovaná úloha
+Service=Spúšťanie ako služba
+
+windowscenterscreen=Nové okno sa zobrazí v strede obrazovky
+showhidetaskbar_hotkey=Zobrazenie alebo skrytie horúcich klávesov na paneli úloh
+
+autohidetaskbar=Automatické skrytie panela úloh pri spustení systému
+
+hidetaskbar_dock=Skrytie hlavného panelu na zobrazenie Docku
+hidetaskbar_all=Skrytie hlavného panela na všetkých obrazovkách
+
+languagechoice=Jazykové zobrazenie
+allfont=Zobrazenie písma
+usefontbold=Vždy používať tučné písmo
+fontscale=Úprava globálnej mierky písma
+
+
+themes=Vzhľad
+
+customize_blur=Intenzita rozmazania
+customize_opacity=Priehľadnosť
+customize_stroke=Priehľadnosť hraníc
+
+customize_enabled_dockbg=Vynútenie aplikácie Dock, aby používala vlastné hodnoty rozmazania a priehľadnosti
+customize_enabled_iconreflection=Nastavenie zrkadlenia pripnutých ikon v Docku
+customize_blur_iconreflection=Intenzita reflexného rozmazania
+customize_opacity_iconreflection=Priehľadnosť odrazu
+customize_offset_iconreflection=Upravte vzdialenosť odrazu ikony
+customize_stoppoint_iconreflection=Upravte vzdialenosť prechodu odrazu ikony
+
+customize_enabled_icontag=Nastavenie vlastných hodnôt rozmazania a priehľadnosti pre ikony v Docku
+customize_enabled_menu=Nastavenie kontextových ponúk na používanie vlastných hodnôt rozmazania a priehľadnosti
+customize_enabled_window=Nastavenie menu MyDockFinder na vlastné hodnoty rozmazania a priehľadnosti
+customize_enabled_finder=Nastavenie vlastných hodnôt rozmazania a priehľadnosti vo Finderi
+customize_opacity_wallpapercolor=Intenzita odtieňa tapety
+customize_enabled_folder=Nastavenie mriežky obsahu priečinka na vlastné hodnoty rozmazania a priehľadnosti
+customize_enabled_foldersize=Rozhranie priečinkov používa vlastné veľkosti ikon
+
+customize_enabled_pad=Launchpad používa vlastné rozmazanie pozadia
+customize_enabled_pad_backdrop=Zobrazenie Launchpadu nad oknami namiesto ich skrytia
+customize_enabled_pad_winuiwallpaper=Launchpad rozmazáva pozadie namiesto jeho predbežného vykresľovania
+selectthemes_icon=Motív ikoniek
+selectthemes_dockskin=Skin Docku
+
+
+general=Vzhľad & správanie
+advanced=Pokročilé
+preview=Náhľady okien
+minimizewindowsettings=Minimalizácia efektov
+systrayicoset=Systémová ikona na paneli
+screenset=Sada obrazoviek
+timeset=Čas & Dátum
+notificationset=Upozornenia
+audioset=Zvuk
+displayset=Zobrazenie
+mediaset=Média
+batteryset=Batérie
+netset=Sieť
+monitorset=Stav hardwaru
+windowsanimationset=animácia okna
+
+
+about=O programe
+
+icosize=Veľkosť ikon
+
+icoeffect=Efekt ikony
+
+dockeffect_none=žiadny
+dockeffect_scale=Škálovanie
+dockeffect_select=Vybrať
+dockeffect_light=osvetlenie
+dockeffect_scaleandlight=Škálovanie a svetlo
+dockeffect_selectandlight=Vyberte a svetlo
+icolightvalue=Intezita svetla ikona
+icobglightvalue=Intenzita svetla na pozadí
+icobglightcolor=Ikona farba na pozadí
+
+icomaxsize=Zväčšenie ikon
+
+icospace=Vzdialenosť medzi ikonami
+edgeposition=Vzdialenosť Docku od okraja obrazovky
+
+
+displaymode=Režim zobrazenia Docku
+displaynormal=Predvolené
+displaybottom=Prekrytie
+displayauto=Automatické skrytie 
+displaysmart=Inteligentné automatické skrývanie
+displayhotkey=Zobrazenie len s
+displayalways=Vždy ukazovať
+displayhide=Vždy skryť
+displayalwaysshow=Vždy vynútiť viditeľnosť
+displaydesktop=Zobraziť iba na ploche
+showmodewindows=Vyberte, ako má Dock zobrazovať a skrývať okno detekcie
+showhidetest_exe=Aktuálne okno programu
+showhidetest_all=Všetky okná programu
+
+showhidetype=Výberom Docku zobrazíte skrytý efekt
+
+showhideeffect_move=pohnúť
+showhideeffect_opacity=Zhasnúť
+
+activation Dock Type=Dock ukazuje, ako bol aktivovaný
+showdockact_mouse=Okraj obrazovky
+showdockact_bar=Aktivačná lišta
+
+actbar_weight=Šírka aktivačného panela
+actbar_height=Výška aktivačného panela
+actbar_offset=Vzdialenosť aktivačného panela od okraja obrazovky
+mouseactdock=Oneskorenie myši aktivuje čas Docku
+
+iconimmersion=Dock používá pri nečinnosti ponorný režím
+
+positiononscreen=Pozícia na obrazovke
+screenleft=Vľavo
+screenbottom=Dole
+screenright=Vpravo
+screentop=Hore
+
+multiscreen=Vyberte obrazovku, na ktorej sa má zobraziť Dock.
+multiscreenpad=Vyberte obrazovku pre zobrazenie Launchpadu
+
+padicotype=Výber ikon, ktoré sa zobrazia na paneli spúšťania
+padicotype_normal=Pridanie ikoniek
+padicotype_startmenu=Ponuka Štart
+padicotype_desktop=Plocha
+padicosize=Veľkosť ikony Launchpadu
+padicospacex=Horizontálna vzdialenosť ikoniek
+padicospacey=Vertikálna vzdialenosť ikoniek
+padicoblacklist=Upravte zmazaný program ponuky Štart
+padblacklist=Správa zoznamov
+
+padscreenname=Nasledovať Dock
+lockicon=Pretiahnutie ikony zámku
+showicontag=Zobraziť štítky ikon
+windowsborder=Povolenie okrajov okien, aby sa okná neskrývali v Docku a Finderi
+jumpanimation=Animované otváranie aplikácií
+folderDoubleclickOpen=Dvakrát kliknite na ikonu priečinka, čím ho otvoríte v aplikácii Finder.
+foldernoshowopen=Skrytie tlačidla otvoriť priečinok
+iconmask=Prispôsobenie všetkých ikon štandardom systému macOS
+icomasktype=Globálny štýl masky ikony
+
+show indicators=Zobraziť indikátory pod spustenými programami
+Runapp separator=Oddeliť odopnuté spustené programy
+newapp=Zobrazenie ikon odpojených spustených programov
+blacklist=Správa blacklistu spustených programov
+noblacklist=Zakázať blacklist programov
+hotcornerleft=Funkcie ľavého dolného rohu
+hotcornerright=Funkcia pravého dolného rohu
+hotkeypad=Zobraziť skratku Launchpadu
+hotkeyDock=Zobraziť skratku Docku
+hotkeyborder=Skratka na prepínanie okrajov okna
+
+dockicobackup=Záloha rozloženia Docku
+backuplist=Správa zálohovaných súborov
+Addbackupdockico=Pridať zálohu rozloženia
+locationbackup=Otvorenie umiestnenia zálohy
+
+minimize=Použitie minimalizačného efektu MyDockFinder
+animationoff=Neanimovať minimalizáciu okien
+Slow animation=Podržaním klávesy 'Shift' môžete animáciu zpomaliť.
+minimizeeffect=Minimalizácia animácie
+
+genie=Džin
+scale=Mierka
+scaleDX=Mierka DirectX
+suck=Vcucnutie
+minimizeAnimationspeed=Minimalizovať rýchlosť animácie
+Minimize to icon=Minimalizácia okien na ich ikonu v Docku
+Minimizeblacklist=Minimalizovať čiernu listinu animácie
+Editwindowlist=Upraviť zoznam okien
+Minimize dynamics=Dynamické zobrazenie obsahu okna pri minimalizácii
+
+minicopos=Minimalizácia umiestnenia ikony okna
+dockmin_lastico=Vedľa ikony vpravo
+dockmin_right=Nezávisle zobrazené vpravo
+dockmin_rightandlim=Pravá strana sa zobrazuje nezávisle pomocou oddeľovača
+minimizeAnimationWait=Čakanie na vykreslenie snímok animácie minimalizovaného okna
+
+previewon=Povolenie náhľadov okien
+previewsize=Veľkosť náhľadu okna
+previewdelay=Oneskorenie náhľadu po nabehnutí myšou
+
+previewcontrol=Zobraziť náhľad prvkov
+previewappname=Meno aplikácie
+previewbutton=Tlačidlá ovládania okien
+aeropeek=Zobrazenie natívneho náhľadu okna pri prejdení myšou
+
+hotkeyfinder=Zobraziť klávesové skratky aplikácie MyFinder
+
+logotype=Ikona menu MyFinder
+diylogo=Vyberte súbor
+shutdownmsgbox=Okno na potvrdenie vypnutia
+finderdark=Vzhľad aplikácie Finder
+showmediacontrol=Zobrazí ikonu prehrávania médií
+showuseraccount=Zobrazí sa ikona účtu
+
+systemtraycolor=Zobrazenie farebných ikon na paneli
+showkeyboard=Zobrazenie ponuky metódy vstupu
+showsearch=Zobrazenie ikony vyhľadávania
+showLyrics=Zobrazenie ponuky textov hudobného prehrávača
+showLyrics_color=Zobrazenie farby hudobného prehrávača
+
+musiccontrolshowmode=Zobrazenie ovládacích prvkov médií
+musiccontrol_close=Nikdy neukázať
+musiccontrol_activity=Keď sa zobrazujú texty
+musiccontrol_always=Vždy ukázať
+
+
+finderdark_auto=Následovať farbu tapety
+finderdark_set=Následovať OS
+
+multiscreenfinder=Výber obrazoviek, na ktorých sa zobrazuje Finder
+findershowallscreens=Finder na všetky obrazovky
+mouseactfinder=Čas oneskorenia aktivácie myši v MyFinder
+showusbdevice=Zobrazia sa vymeniteľné disky USB
+
+finderdisplaymode=Automatické skrývanie Findera
+finderautochangecolor=Maximalizované okná ovplyvňujú vzhľad Finderu
+finderlockbtn=Zamknúť preťahovanie ikoniek na Finderi
+myfinderscaleopen=Používajte vlastné meradlo
+finderfastclosewindow=Kliknutím na pravý horný roh zatvoríte aktuálne maximalizované okno
+stagemanagerset=Manažer fázy
+showstagemanager=Zobrazenie ikony Správca scén (Stage Manager) v aplikácii MyFinder
+showstagemanagerwindowtitle=Zobrazenie názvu okna po nabehnutí myšou
+showstagemanagerdesktophidewindows=Kliknutím na plochu skryjete všetky okná
+showstagemanagermediaplaypause=Automatické pozastavenie a prehrávanie médií v okne na pozadí
+stagemanager_hotkey=Klávesové skratky Správcu scén (Stage Manager)
+stagemanager_windowsblur=Rozmazanie ikon okien na pozadí
+
+stagemanagerblacklist=Programy vylúčené z programu Správca scén (Stage Manager)
+
+stagemanager_showdesktop=Zobraziť ikony na ploche
+desktopico_hide=Vždy skryť ikonu
+desktopico_auto=Automatické skrytie zobrazenia
+desktopico_show=Vždy ukázať
+
+stagemanager_enable=Zapnúť Správcu scén (Stage Manager)
+stagemanager_listpos=Pozícia obrazovky, na ktorej sa nachádza zoznam okien
+stagemanager_listshowmode=Zoznam okien Zobrazí skrytý režim
+
+stagemanager_windowsize=veľkosť ikony v zozname okien
+stagemanager_windowspace=Medzery medzi ikonami v zozname okien
+stagemanager_windowcount=Počet ikon v zozname okien
+
+
+findershowmenu=Zobrazenie možností okna v aplikácii Finder
+
+showaudio=Zobrazenie ponuky hlasitosti vo Finderi
+showmicrophone=Zobrazenie ikony používania mikrofónu v aplikácii Finder
+
+showbattery=Zobrazenie ponuky Stav batérie vo Finderi
+shownetwork=Zobrazenie ponuky Pripojenie k internetu v aplikácii Finder
+showbluetooth=Zobrazenie ponuky Bluetooth v aplikácii Finder
+showdisplay=Zobraziť ponuku Displeje vo Finderi
+showbatterytime=Zobrazuje zostávajúcu výdrž batérie
+batteryshow_none=Nezobrazené
+batteryshow_acdc=Vždy zobrazené
+batteryshow_ac=Pri použití zdroja napájania
+batteryshow_dc=Pri použití batérie
+
+powerset_open=Automatické prepínanie schém napájania
+powerset_aconline=Schéma napájania pri napájaní
+powerset_battery=Schéma napájania pri použití batérie
+
+bluetooth_showbattery=Zobraziť pripojené zariadenia Bluetooth
+bluetooth_not show=Nezobrazovať
+bluetooth_icon=Zobraziť len ikony
+bluetooth_value=Zobrazenie ikon a stavu batérie
+
+showcpu=Procesor
+showtemp=Teplota
+showmen=Pamäť
+showdisk=Úložisko
+shownet=Sieť
+
+Calendarfirstday=Prvý deň v týždni
+Calendar_Sunday=Nedeľa
+Calendar_Monnday=Pondelok
+
+formatdate=Formát dátumu:
+formattime=Formát času:
+customformatdate=Prispôsobenie formátu zobrazenia dátumu
+customformattime=Prispôsobenie formátu zobrazenia času
+
+showbatteryvalue=Zobrazenie percent batérie v stavovom riadku Findera
+audiotip=Prehrávanie zvuku pri zmene hlasitosti
+mediatype=Štýl hlasitosti a jasu
+
+media_system=Windows
+media_speakers=macOS
+media_phone=iOS/iPadOS
+
+hotkeyvolup=Klávesová skratka na zvýšenie hlasitosti
+hotkeyvoldown=Klávesová skratka na zníženie hlasitosti
+hotkeyvolmute=Klávesová skratka na stlmenie hlasitosti
+hotkeymicup=Klávesová skratka na zosilnenie mikrofónu
+hotkeymicdown=Klávesová skratka na stlmenie mikrofónu
+hotkeymicmute=Klávesová skratka na stlmenie hlasitosti mikrofónu
+
+
+hotkeybriup=Klávesová skratka na zvýšenie jasu
+hotkeybridown=Klávesová skratka na zníženie jasu
+hotkeycontrolvalue=Upraví hodnotu klávesovej skratky na zvýšenie alebo zníženie.
+
+systemnotification=Systémové upozornenia
+usbdevicenotification=Zobrazenie pripojenia vymeniteľného disku a vyskakovacieho upozornenia
+bluetoothdevicenotification=Zobrazenie oznámení po pripojení zariadenia Bluetooth
+Appnotification=Oznámenia aplikácie
+notification_open=Povoliť oznámenia
+notification_type=Správanie bannera s notifikáciami
+notification_time=Dĺžka zobrazenia bannerového oznámenia
+notification_show_close=Nikdy nezobrazujte banner
+notification_show_once=Zobraziť len raz
+notification_show_always=Vždy ukazovať
+
+trayicoallshow_myfinder=Vždy zobraziť všetky ikony na paneli vo Finderi
+trayicoallshow_mydock=Vždy zobraziť všetky ikony na paneli v Docku
+trayicoallshow_systemico=Zobrazenie vlastnej systémovej ikony na paneli úloh v aplikácii MyFinder
+trayico_waittime=Novo spustená ikona na paneli úloh zobrazuje čas
+
+Apptrayico=Ikony na paneli aplikácií
+apptrayicoshow_finder=Zobrazenie ikony na paneli vo Finderi
+apptrayicoshow_dock=Zobrazenie ikony na paneli v Docku
+
+screenround=Zobraziť zaoblené rohy
+screenround_show=Povoliť zaoblené rohy na tomto displeji
+screenround_size=Polomer zaoblenia rohov obrazovky
+screenround_color=Farba
+
+openwindowsshow=Animácia otvárania okien
+windowsopeneffect=Efekt animácie otvorenia okna
+
+openwindowsclose=Animácia zatvorenia okna
+windowscloseeffect=Efekt animácie zatvárania okna
+windowsblacklistadd=Okno na pridávanie výnimiek
+windowsblacklistdel=Odstrániť okná pre vylúčené programy
+windowsclose_animation=Upravte rýchlosť animácie
+
+stagemanager_animation=Upravte rýchlosť animácie
+mediatiptime=Zobrazenie času výzvy na zvýšenie jasu a hlasitosti
+
+other=Viac
+
+wallpaper=Dynamická tapeta
+
+selectwallpaper=Dynamická tapeta
+wallpapernone=Nedynamická tapeta
+loadwallpaper=Nahrať dynamickú tapetu
+wallpaperdownload=Nahrať dynamickú tapetu z internetu
+wallpaperOK=Aplikácia
+
+restartdock=Reštartovať Dock
+
+resetini=Vymazať dáta
+resetini_ok=Odstrániť
+resetini_config=Profil predvolieb
+resetini_ico=Profil ikony v Docku
+resetini_padico=Profil ikony v Launchpade
+resetini_padicocache=Vyrovnávacia pamäť ikon Launchpadu
+
+systemiconcache=Systémová vyrovnávacia pamäť ikon
+
+uninstall=Odinštalátor
+
+updatelog=Zoznam zmien
+updatelogcheck=Zobraziť
+
+ok=OK
+cancel=Zrušiť
+
+------------------------------------------------------------
+[hotcorners]
+
+nothing=Nerobiť nič
+allwindows=Zobraziť všetky okná
+launchpad=Otvoriť Launchpad
+displaytosleep=Prepnutie displeja do režimu spánku
+startmenu=Otvoriť ponuku Štart
+showdesktop=Zobraziť plochu
+actioncenter=Otvoriť Ovládanie programu
+screensaver=Zamknutá obrazovka
+Windows widget=Widget pre systém Windows
+
+
+[settingtips]
+
+backupsuccess=Úspešne nahrané!
+backupfail=Nahrávanie sa nepodarilo!
+
+hotkeyhideerror=Nastavte prosím klávesovú skratku Dock na zobrazenie, inak táto funkcia nemusí byť k dispozícii!
+resetinitip=Chceli by ste obnoviť konfiguračný súbor?
+systemicontip=Chcete vymazať vyrovnávaciu pamäť systémovej ikony?
+
+;An error message pops up on the setting interface
+winuiwallpapertip=Toto nastavenie je nestabilné a môže spôsobiť pád počítača. Ak sa tak stane, vypnite toto nastavenie a po reštartovaní počítača znovu otvorte MyDockFinder.
+
+DPItips=V prípade niektorých prvkov rozhrania sa táto zmena prejaví až po reštarte MyDockFinder.
+
+padicotypetips=Táto zmena resetuje všetky ikony v Launchpade, ste si istí, že to chcete urobiť?
+
+edgetip= Limit otvoreného limitného okna nie je možné nastaviť!
+autohideerror= Túto funkciu nie je možné aktivovať pri otvorení okraja okna!
+neterror=Pripojenie zlyhalo, skontrolujte prosím svoje pripojenie.
+autohide=Automatické skrývanie nebolo možné povoliť.
+updateerror1=Chyba spojenia, skúste to prosím znova.
+
+updatetip1=Je k dispozícii nová aktualizácia?
+updatetip2=Je program automaticky aktualizovaný?
+
+noupdate=Najnovšia verzia je už nainštalovaná.
+
+restarttip=Na vykonanie tejto zmeny je potrebné reštartovať program.
+
+languagetips=Niektoré rozhrania treba pre zmenu reštartovať!
+
+restartruntip=Chcete program reštartovať?
+
+backupfolderror=Nepodarilo sa vytvoriť záložný priečinok, uistite sa, že adresár nie je určený len na čítanie.
+
+backuptips=Chcete obnoviť tento záložný súbor?
+
+
+;-------------------------------------------------------------------
+
+[menu]
+;Right menu
+reboot explorer=Reštartovanie
+
+closewindows=Zatvoriť okno
+
+RecentFiles=Naposledy otvorené súbory
+otheroption=Predvoľby
+dockmenu=Programová ponuka
+menurecent=Nedávno navštívené
+menubind=Stabilné
+menutask=Úloha
+
+edit_cut=Vystrihnúť
+edit_copy=Kopírovať
+edit_paste=Vložiť
+edit_selectall=Vybrať všetko
+edit_delete=Vymazať
+edit_openurl=Otvoriť URL
+
+workshop=Workshop
+newfinderwindow=Nové okno Findera
+gotofolder=Prejsť na
+connecttoserver=Vzdialené pripojenie k
+showlaunchpad=Zobraziť Launchpad
+
+
+addnormalicon=Pridať ikonu aplikácie
+addsystemicon=Pridanie systémovej skratky
+add delimiter=Pridať oddeľovač
+del delimiter=Odstrániť oddeľovač
+
+showtaskbar=Zobraziť panel úloh
+hidetaskbar=Skryť panel úloh
+preference=Predvoľby
+enddock=Ukončiť
+
+editicon=Upraviť túto ikonu
+removefromdock=Odstrániť z Docku
+keepindock=Ponechať v Docku
+locationfile=Otvoriť umiestnenie aplikácie
+runagain=Znovu spustiť túto aplikáciu
+nevershowthis=Skryť ikonu tejto aplikácie
+adminmode=Spustiť s oprávnením správcu
+open=Otvoriť
+quit=Ukončiť
+
+emptytrash=Vyprázdnenie koša
+sortorder=Usporiadať podľa
+Byname=Meno
+Bysize=Veľkosť
+Byextension=Typ
+Bydate/time=Posledné úpravy
+Createtime=Čas vytvorenia
+Groupdirectories=Adresáre ako prvé
+reverseorder=Spätné radenie
+closewindow=Zatvoriť toto okno
+Display=Zobraziť obsah priečinka ako
+Folder=Priečinok
+Stack=Zásobník
+Locatefolder=Priamo otvoriť
+FolderEffect=Efekt zobrazenia priečinka
+Grid=Mriežka
+Fan=Vejár
+menufold=Menu
+
+showmodeapps=Nastavenie predvolieb MyDockFinder na zobrazenie/skrytie pri spustení
+showmodedesktop=Nastavenie predvolieb MyDockFinder na zobrazenie/skrytie na ploche
+NominiEffect=Nezobrazovať animáciu minimalizácie pre túto aplikáciu
+nevershowprogress bar=Nezobrazovať ukazovateľ priebehu pre túto aplikáciu
+showmodenormal=Ďalšie nastavenia
+msgtips=Nastavenia pripomenutia správ
+incognito=Nové anonymné okno
+
+systemmenu=Systémová kontextová ponuka
+
+timeskin=Výber ciferníku hodiniek
+timedefault=Predvolené nastavenia
+
+----------------------------------------------
+
+[launchpad]
+
+addicon=Pridať ikonu
+deleteicon=Odstrániť túto ikonu
+padsortname=Zoradiť podľa mena
+padsort=Automatické vyplňovanie ikoniek
+
+search=Hľadať
+ok=Hotovo
+addtips=Potiahnite sem súbory .exe a .lnk a pridajte ich do Launchpadu.
+----------------------------------------------
+
+[promptwindow]
+
+;Empty trash can prompt and other prompts
+
+ok=Áno
+cancel=Nie
+trashok=Áno
+trashtitle=Ste si istí, že chcete vysypať predmety z koša?
+batterytip=Percento batérie je nízke, počítač sa čoskoro vypne, ak nebude pripojený k zdroju napájania.
+
+eject=Disk je vysunutý.
+Connected=Tento disk je už pripojený.
+brightnesstip=Nastavenie vysokého jasu displeja môže spôsobiť jeho trvalé poškodenie, preto ho vykonávajte opatrne!
+brightnesstip1=Zistil sa jas monitora 0, ak monitor nezobrazuje obsah alebo nekliknete na tlačidlo OK, obnovte jas displeja po 5 sekundách.
+
+
+-----------------------------------------------
+;Time format description
+;ddd day of the week dddd day of the week M month d day H 24 hour format h 12 hour format m minutes s seconds
+;Double letters with two digits for example  HH:mm:ss  09:06:05
+;All the following formats can be customized and modified, and the number on the left can be added without limit = left blank to indicate that the date is not displayed
+;After the modification is saved, it will take effect immediately, directly set and click the time format menu to display the effect
+[formatdate]
+1=
+2=ddd
+3=MMM d
+4=MMM d ddd
+5=ddd MMM d
+6=ddd d MMM yyyy
+
+[formattime]
+1=H:mm
+2=h:mm tt
+3=H:mm:ss
+4=h:mm:ss tt
+
+[calicon]
+
+;Calendar icon month text
+
+m1=Jan
+m2=Feb
+m3=Mar
+m4=Apr
+m5=Máj
+m6=Jún
+m7=Júl
+m8=Aug
+m9=Sept
+m10=Okt
+m11=Nov
+m12=Dec
+
+
+[findermenu]
+spatialaudio=Priestorový zvuk
+
+bluetoothdisconnect=Odpojenie
+bluetoothunpair=Odstrániť zariadenie
+
+lockscreen=Uzamknutie obrazovky
+usersetting=Nastavenie účtu
+
+HideMenu=Skryje panel ponuky okna
+systemmenu=Ponuka okien
+
+bluetooth=Bluetooth
+Bluetooth settings=Nastavenia Bluetooth
+device=Zariadenia
+Preferred network=Preferovaná sieť
+other networks=Ďalšie siete
+network settings =Nastavenia siete
+Audio=Zvuk
+output=Výstup
+Microphone=Mikrofón
+input=Vstup
+
+audio settings=Nastavenia zvuku
+battery settings=Nastavenia batérie
+BatteryEstimatedTime=Zostávajúca výdrž batérie
+batterytime_hour=Hodiny
+batterytime_min=Minúty
+Edit title=Upraviť názov
+Window border=Zachovať okraj okna
+end finder=Zatvoriť
+About This PC=O tomto počítači
+System settings=Systémové nastavenia
+app Store=Obchod s aplikáciami App Store
+Task manager=Správca úloh
+Sleep=Uspať
+Dormant=Hibernovať
+Shutdown=Vypnúť
+Reboot=Reštartovať
+Shutdown&Update=Vypnúť a aktualizovať
+Reboot&Update=Reštartovať a aktualizovať
+
+Lock screen=Uzamknúť
+Logout=Odhlásiť sa
+
+symbol=Zobraziť emotikony a symboly
+Screen Keyboard=Zobrazenie klávesnice na obrazovke
+keyboardname=Zobrazenie názvu rozloženia klávesnice
+Keyboard settings=Nastavenia klávesnice
+display=Displej
+systemdark=Tmavý režim
+bluelight=Nočné osvetlenie
+focusassist=Zaostriť
+focusoff=Zakázať zaostrenie
+focusPriorityOnly=Len prioritné oznámenia
+focusAlarmsOnly=Iba budíky
+Notification settings=Nastavenia oznámení
+screen projection=Zrkadlenie obrazovky
+screen INTERNAL=Len hlavná obrazovka
+screen CLONE=Duplikovať
+screen EXTEND=Rozšíriť
+screen EXTERNAL=Iba sekundárna obrazovka
+
+displayset=Nastavenia displeja
+hotspot=Hotspot
+airplane=Režim Lietadlo
+deviceon=Pripojenie zariadení
+deviceoff=Zariadenie nie je pripojené
+eject=Vysunutie zariadenia
+open=Otvoriť
+
+[findertips]
+Mute=Stlmiť
+battery=Batéria
+AcOnLine=Pripojený zdroj napájania
+Charging=Nabíja sa
+notCharging=Nenabíja sa
+Usebattery=Napájanie z batérie
+Full battery=Batéria je plná
+brightness=Jas
+show trayico=Zobraziť systémovú lištu
+
+[findertitle]
+
+[findermenubrowser]
+new=Nový
+newtab=Nová záložka
+newwindow=Nové okno
+favorites=Obľúbené položky
+history=História
+download=Stiahnuť
+window=Okno
+file=Súbor
+no file=Nie je vybraný žiadny súbor
+
+View=Zobraziť
+Sort by=Zoradiť podľa
+Group by=Skupina podľa
+refresh=Obnoviť
+showicons=Zobrazí ikony na ploche
+
+sort_none=Žiadny
+sort_bigicon=Veľké ikony
+sort_mediumicon=Stredné ikony
+sort_smallicon=Malé ikony
+sort_superbigicon=Nadrozmerné ikony
+sort_list=Zoznam
+sort_details=Detaily
+sort_tile=Dlaždice
+sort_content=Obsah
+sort_name=Meno
+sort_size=Veľkosť
+sort_type=Typ
+sort_time=Dátum
+sort_ascending=Vzostupne
+sort_descending=Zostupne
+sort_AutoArrange=Ikony sa usporiadajú automaticky
+sort_snaptogrid=Automatické usporiadanie ikon zarovnaných do mriežky
+
+
+[shutdown]
+shutdown=Chcete vypnúť počítač?
+Reboot=Chcete reštartovať počítač?
+Logout=Chcete sa odhlásiť?
+Dormant=Chcete počítač prepnúť do režimu hibernácie?
+sleep=Chcete svoj počítač uspať?
+
+now=Teraz
+minute=Minúty
+
+
+[wifi]
+password=Heslo：
+showpassword=Ukázať heslo
+join=Pripojiť
+cancel=Zrušiť
+
+
+[weather]
+00=Slnečno
+01=Zamračené
+02=Celý deň zamračené
+03=Dažďové prehánky
+04=Búrka s dažďovými prehánkami
+05=Búrky s krupobitím
+06=Sneženie
+07=Malý dážď
+08=Mierny dážď
+09=Silný dážď
+10=Dažďové búrky
+11=Prívalový dážď
+12=Silný dážď
+13=Snehové prehánky
+14=Mierne sneženie
+15=Ľahko zamračené
+16=Husté sneženie
+17=Víchrica
+18=Hmla
+19=Mrznúci dážď
+20=Piesočná búrka
+21=Slabý až mierny dážď
+22=Stredne silný dážď
+23=Silný dážď
+24=Silný až mierny dážď
+25=Silný až extrémny dážď
+26=Slabé až mierne sneženie
+27=Mierne až silné sneženie
+28=Extrémna snehová víchrica
+29=Vznášajúci sa prach
+30=Piesočná búrka
+31=Silná piesočná búrka
+32=Hustá hmla
+33=Sneženie
+49=Silná hmla
+53=Hmlisté
+54=Mierne hmlisté
+55=Silno zahmlené
+56=Veľmi hmlisté
+57=Hustá hmla
+58=Silná hmla
+301=Prší
+302=Zasnežené
